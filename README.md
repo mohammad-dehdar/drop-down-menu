@@ -3,11 +3,12 @@
 This project implements a custom dropdown menu component developed using Next.js, React, and TypeScript.
 
 ## Features
-- Built with React and Next.js 15
+- Built with React and Next.js 14
 - Allows selection from multiple categories with icons
 - Custom styling using SCSS
 - State management with `useState` and handling outside clicks with `useEffect`
 - Fully responsive and customizable
+- this is a reusable component
 
 ## Installation and Setup
 
