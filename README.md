@@ -65,6 +65,4 @@ export default function Example() {
 ## Contribution
 If you want to contribute to this project, please fork the repository and make changes in a new branch. Then submit a pull request.
 
-## License
-This project is released under the **MIT** license.
 
